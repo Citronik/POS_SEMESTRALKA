@@ -1,0 +1,3 @@
+/tmp/tmp.T7ACpt5SZF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.T7ACpt5SZF/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.T7ACpt5SZF/cmake-build-debug/CMakeFiles/Semestrana_praca.dir

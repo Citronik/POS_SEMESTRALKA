@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Semestrana_praca.dir/main.c.o -o Semestrana_praca 
